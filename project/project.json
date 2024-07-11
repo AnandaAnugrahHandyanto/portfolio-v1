@@ -11,7 +11,7 @@
     },
     {
         "title": "Android Custom Rom AwakenOS",
-        "tech": "C++, JAVA, MAKEFILE, SHELL, C, FORT, PYTHON",
+        "tech": "C++, JAVA, MAKEFILE, SHELL, C, PYTHON",
         "image": "./assets/img/project/awakenos.png",
         "desc":"Custom ROM for Poco M5, downloaded 1.5k times.",
         "links": {
@@ -19,7 +19,7 @@
             "code": "https://github.com/DeandraAir/android_device_xiaomi_rock-14.git"
         }
     },{
-        "title": "PitchBlack Recovery Project (PBRP)",
+        "title": "PitchBlack Recovery Project(PBRP)",
         "tech": "MAKEFILE, SHELL",
         "image": "./assets/img/project/pbrp.png",
         "desc":"Custom recovery for Poco X6 5G/Redmi Note 13 Pro 5G, downloaded 689 times.",
@@ -29,7 +29,7 @@
         }
     },{
         "title": "Android Custom Rom VoltageOS",
-        "tech": "C++, JAVA, MAKEFILE, SHELL, C, PYTHON, KOTLIN",
+        "tech": "C++, JAVA, MAKEFILE, C, PYTHON, KOTLIN",
         "image": "./assets/img/project/voltageos.png",
         "desc": "Custom ROM for Poco X6 5G/Redmi Note 13 Pro 5G, downloaded 479 times.",
         "links": {
