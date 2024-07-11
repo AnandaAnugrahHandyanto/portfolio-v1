@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Develop applications with Alibaba Cloud services",
+        "by": "Alibaba Cloud",
+        "image": "./certification/developed-applications.png",
+        "category": "programming",
+        "links": {
+            "credentials": "#certifications"
+        }
+    },
+    {
+        "name": "Learn basic web programming",
+        "by": "Codepolitan x Kelas Full Stack",
+        "image": "./certification/image.png",
+        "category": "programming",
+        "links": {
+            "credentials": "https://www.codepolitan.com/c/C9SD7PI/"
+        }
+    }
+]
