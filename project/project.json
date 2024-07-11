@@ -19,7 +19,7 @@
             "code": "https://github.com/DeandraAir/android_device_xiaomi_rock-14.git"
         }
     },{
-        "title": "PitchBlack Recovery Project(PBRP)",
+        "title": "PitchBlack Recovery Project",
         "tech": "MAKEFILE, SHELL",
         "image": "./assets/img/project/pbrp.png",
         "desc":"Custom recovery for Poco X6 5G/Redmi Note 13 Pro 5G, downloaded 689 times.",
