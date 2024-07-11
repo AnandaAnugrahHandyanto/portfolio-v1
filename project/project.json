@@ -1,19 +1,19 @@
 [
     {
         "title": "Android Custom Rom CherishOS",
-        "tech": "C++, JAVA, MAKEFILE, SHELL, C, FORT, PYTHON",
+        "tech": "C++, JAVA, MAKEFILE, SHELL, C, PYTHON",
         "image": "./assets/img/project/cherishos.png",
-        "desc":"This is a custom ROM for the Xiaomi Redmi Note 10 device. And it has been downloaded 276 times.",
+        "desc":"Custom ROM for Xiaomi Redmi Note 10, downloaded 276 times.",
         "links": {
             "view": "https://t.me/Pertamax77/12628?single",
             "code": "https://github.com/DeandraAir/device_xiaomi_mojito"
         }
     },
     {
-        "title": "Android Custom Rom Project AwakenOS",
+        "title": "Android Custom Rom AwakenOS",
         "tech": "C++, JAVA, MAKEFILE, SHELL, C, FORT, PYTHON",
         "image": "./assets/img/project/awakenos.png",
-        "desc":"This is a custom ROM for the Xiaomi Poco M5 device. And it has been downloaded 1.5k times.",
+        "desc":"Custom ROM for Poco M5, downloaded 1.5k times.",
         "links": {
             "view": "https://t.me/Pertalite77/943?single",
             "code": "https://github.com/DeandraAir/android_device_xiaomi_rock-14.git"
@@ -22,16 +22,16 @@
         "title": "PitchBlack Recovery Project (PBRP)",
         "tech": "MAKEFILE, SHELL",
         "image": "./assets/img/project/pbrp.png",
-        "desc":"This is a custom recovery for Poco X6 5G / Redmi Note 13 Pro 5G devices. has been downloaded 689 times.",
+        "desc":"Custom recovery for Poco X6 5G/Redmi Note 13 Pro 5G, downloaded 689 times.",
         "links": {
             "view": "https://t.me/Pertalite77/1025?single",
             "code": "https://github.com/DeandraAir/android_device_xiaomi_garnet-pbrp.git"
         }
     },{
         "title": "Android Custom Rom VoltageOS",
-        "tech": "C++, JAVA, MAKEFILE, SHELL, C, FORT, PYTHON, KOTLIN",
+        "tech": "C++, JAVA, MAKEFILE, SHELL, C, PYTHON, KOTLIN",
         "image": "./assets/img/project/voltageos.png",
-        "desc": "This is a custom ROM for the Poco X6 5G / Redmi Note 13 Pro 5G devices. And it has been downloaded 479 times.",
+        "desc": "Custom ROM for Poco X6 5G/Redmi Note 13 Pro 5G, downloaded 479 times.",
         "links": {
             "view": "https://t.me/Pertalite77/1084?single",
             "code": "https://github.com/DeandraAir/device_xiaomi_garnet.git"
