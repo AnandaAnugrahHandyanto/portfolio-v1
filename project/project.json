@@ -42,7 +42,7 @@
         "image": "./assets/img/project/portfolio.png",
         "desc": "This is my project for personal portfolio.",
         "links": {
-            "view": "#project",
+            "view": "https://portfolio-v1-new.vercel.app/",
             "code": "https://github.com/AnandaAnugrahHandyanto"
         }
     }
